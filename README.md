@@ -1,3 +1,4 @@
+<!--
 # About Me
 
 I'm Archaent Nakasaki.
@@ -10,7 +11,4 @@ I'm Archaent Nakasaki.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchaentNakasaki&layout=compact&theme=tokyonight&langs_count=6" alt="Language used"/>
 </div>
 
-<!---
-archaent-nakasaki/archaent-nakasaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
